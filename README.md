@@ -1,7 +1,7 @@
 # Brief-JO--Italie-
 
 Ce Brief a été réalisé sur la période du 27/10 au 04/11 et ce présent Git contient la 1ère partie.
-A partir d'un jeu de donnée, il était demandé de réaliser différentes figures sur différents aspects des Jeux Olympiques. Il a donc était demandé :
+A partir d'un jeu de données, il était demandé de réaliser différentes figures sur différents aspects des Jeux Olympiques. Il a donc été demandé :
 - une courbe qui représente le nombre de médailles gagnées au cours du temps
 - une courbe qui répresente le nombre d'athlètes engagés au cours du temps, au total et par sexe
 - un histogramme qui représente la distribution de l'âge des participants pour toutes les éditions
