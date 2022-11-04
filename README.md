@@ -21,4 +21,4 @@ Chaque binôme avait les contraintes suivantes :
 - utiliser les données des éditions d'été (sauf cas où cela n'est pas demandé/n'a pas d'importance)
 
 La finalité étant de présenter le résultat des recherches et des analyses, comme s'il s'agissait de faire une présentation au Ministère de la Culture de la Jeunesse et des Sports.
-Il est ainsi possible de retrouver le support de présentation de la restitution orale présentée dans le cadre du brief.
+Il est ainsi possible de retrouver le support de présentation de la restitution orale présentée dans le cadre du brief ainsi qu'une cheat sheet sur la librairie utilisée.
